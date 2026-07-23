@@ -1,0 +1,20 @@
+{
+  "commands": {
+    "open github": {
+      "action": "url",
+      "value": "https://github.com"
+    },
+    "hello jarvis custom": {
+      "action": "speak",
+      "value": "Hello! This is a custom command response."
+    },
+    "good morning": {
+      "action": "speak",
+      "value": "say good morning vishwas have a great"
+    },
+    "motivate me": {
+      "action": "speak",
+      "value": "you can do it keep learning"
+    }
+  }
+}
