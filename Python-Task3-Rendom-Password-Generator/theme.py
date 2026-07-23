@@ -1,0 +1,16 @@
+BG_BASE = "#000000"
+BG_CARD = "#1c1c1e"
+BG_PILL = "#2c2c2e"
+BG_HOVER = "#3a3a3c"
+BORDER_COLOR = "#2c2c2e"
+TEXT_PRIMARY = "#ffffff"
+TEXT_SECONDARY = "#8e8e93"
+COLOR_BLUE = "#0a84ff"
+COLOR_GREEN = "#30d158"
+COLOR_ORANGE = "#ff9f0a"
+COLOR_RED = "#ff453a"
+COLOR_YELLOW = "#ffd60a"
+FONT_MAIN = ("Helvetica Neue", 10)
+FONT_HEADING = ("Helvetica Neue", 18, "bold")
+FONT_SUB = ("Helvetica Neue", 9)
+FONT_MONO = ("Menlo", 13, "bold")
