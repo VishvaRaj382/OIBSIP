@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Byte-Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite Databases & Local Test Files
+*.db
+*.sqlite3
+
+# Local Exported Files
+*.csv
+*.txt
+
+# macOS System Files
+.DS_Store
